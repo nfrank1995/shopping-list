@@ -4,3 +4,4 @@ Tasks for the shopping list app
     - [ ] react-dnd [react-dnd npm](https://www.npmjs.com/package/react-dnd) (looks outdated, last published 3 years ago)
 - [ ] setup prettier
 - [ ] setup husky
+- [ ] make app an pwa
