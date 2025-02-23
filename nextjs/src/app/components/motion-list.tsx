@@ -8,7 +8,7 @@ export default function MotionList() {
       <h1 className="font-bold">Framer Motion List</h1>
       <div>
         {List.map((name, index) => (
-          <Item key={name} name={name} />
+          <Item key={name} name={name+index} />
         ))}
       </div>
     </div>
